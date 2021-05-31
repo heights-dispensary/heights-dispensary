@@ -1,10 +1,16 @@
                       
-
-[![Generic badge](https://img.shields.io/badge/.BASHRC-RE~ORGANIZED-<COLOR>.svg)](https://github.com/heights-dispensary/.ps420)
-[![Generic badge](https://img.shields.io/badge/.bash.rc~.ps420~.alias~.source~.exports~.functions-<COLOR>.svg)](https://heightsdispensary.com/)
-[![Generic badge](https://img.shields.io/badge/LICENSED-MIT-<COLOR>.svg)](https://github.com/heights-dispensary/.ps420)
+![pa42oinit](https://user-images.githubusercontent.com/10424858/120240771-ffbc2c00-c226-11eb-83a3-06b529921968.png)
 
 
+![MITlicense](https://user-images.githubusercontent.com/10424858/120239400-d1891d00-c223-11eb-9c63-ebf86f17558d.png)
+
+
+
+      
+      Manual Installation
+      wget -O ps420.tar.xz https://git.io/JGBe6
+      sudo mv ~/.bashrc ~/bashrc.bak
+      sudo tar -C ~/. -xvf ps420.tar.xz --overwrite
                 
       Script Name   : .ps420 
       Path          : ~/.       
@@ -13,12 +19,15 @@
                       ~/.bashrc | executed by bash¹ for interactive shells.
                                                        
 
-![ps420](https://user-images.githubusercontent.com/10424858/120169570-b687c000-c1c5-11eb-9f9a-886eec682f6b.png)  https://github.com/heights-dispensary/.ps420
+![ps420](https://user-images.githubusercontent.com/10424858/120169570-b687c000-c1c5-11eb-9f9a-886eec682f6b.png)
 
 
-      Related files :  ~/.bashrc ~/.alias ~/.source ~/.exports ~/.functions ~/
+      Related files : ~/.bashrc ~/.alias ~/.source ~/.exports ~/.functions
 
       Email         : webserver@heightsdispensary.com 
+      
+      
+ ![MITlicense](https://user-images.githubusercontent.com/10424858/120239400-d1891d00-c223-11eb-9c63-ebf86f17558d.png)
 
 
       Disclaimer    : Some functionality requires sudoers access or passing sudo in script.
@@ -29,7 +38,6 @@
                       https://developer.gnome.org/NetworkManager/stable/nmcli.html³
 
 
-      Install with: sudo rn .bashrc .bashrc.bak && sudo tar -C ~/. -zxvf ps420.tar.xz
 
 
 
