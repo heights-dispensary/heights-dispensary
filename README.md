@@ -13,7 +13,7 @@
                       ~/.bashrc | executed by bash¹ for interactive shells.
                                                        
 
-![ps420](https://user-images.githubusercontent.com/10424858/120169570-b687c000-c1c5-11eb-9f9a-886eec682f6b.png)]https://github.com/heights-dispensary/.ps420)
+![ps420](https://user-images.githubusercontent.com/10424858/120169570-b687c000-c1c5-11eb-9f9a-886eec682f6b.png)  https://github.com/heights-dispensary/.ps420
 
 
       Related files :  ~/.bashrc ~/.alias ~/.source ~/.exports ~/.functions ~/
